@@ -570,7 +570,7 @@
         <!-- Hero -->
         <section class="hero" role="img" aria-label="Hero banner">
             <div class="container">
-                <h1>summer Collection in 2028 Premium Picks</h1>
+                <h1>summer winter Collection in 2028 Premium Picks</h1>
                 <p>Discover the latest trends in fashion, technology and accessories — curated just for you. Enjoy unlimited-time deals and free shipping on selected items.</p>
                 <div>
                     <button class="btn btn-primary" id="shopNow">Shop Now <i class="fas fa-arrow-right"></i></button>
